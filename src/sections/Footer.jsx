@@ -62,7 +62,7 @@ const Footer = () => {
           />
           <p> Copyright. 2024 Nike Inc. All rights reserved.</p>
         </div>
-        <p className="font-montserrat cursor-pointer hover:text-slate-gray">Terms amd Conditions</p>
+        <p className="font-montserrat cursor-pointer hover:text-slate-gray">Terms and Conditions</p>
 
       </div>
     </footer>
